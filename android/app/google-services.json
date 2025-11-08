@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "985866694142",
+    "project_id": "student-task-manager-4bc6a",
+    "storage_bucket": "student-task-manager-4bc6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985866694142:android:bbb98a5122267eec7e24af",
+        "android_client_info": {
+          "package_name": "com.example.students_task_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985866694142-tp60pi07m622ada99p04trhjknmkl8ih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.students_task_manager",
+            "certificate_hash": "bba96db4f3f6450948533181e6b907f3cfe9229c"
+          }
+        },
+        {
+          "client_id": "985866694142-97qhohneent9au30g6vk8qoe6g189922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlhUF6z4ifh41lLc6gd9zEdix9VF-3E3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985866694142-97qhohneent9au30g6vk8qoe6g189922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
